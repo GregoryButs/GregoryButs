@@ -36,8 +36,8 @@ geweigerd, geen serverfouten. Draai het zelf in Codespaces zonder installatie.
 
 ### Hoe ik werk
 
-Het platform hierboven draait op **1.067 geautomatiseerde tests** (695 xUnit, 372 Vitest) met
-**92,4% gecombineerde line coverage**, en elke architectuurbeslissing is vastgelegd in een ADR —
+Het platform hierboven draait op **1.218 geautomatiseerde tests** (812 xUnit, 406 Vitest) met
+**92,5% gecombineerde line coverage**, en elke architectuurbeslissing is vastgelegd in een ADR —
 inclusief de beslissingen om iets juist *niet* te doen.
 
 Wat ik daarbij belangrijk vind: elk cijfer dat ik publiceer komt uit een run, niet uit een
