@@ -19,7 +19,7 @@ transacties stap voor stap door hun race.
 **[De Verstandhouding — engineering case study](https://gregorybuts.github.io/de-verstandhouding-showcase/)**
 Het volledige platform: architectuur, ontwerpkeuzes, het domein van de Belgische RIZIV/ELP-conventie,
 en waar de grenzen van de oplossing liggen. Inclusief het
-[API-contract](https://gregorybuts.github.io/de-verstandhouding-showcase/api.html) met 57 endpoints.
+[API-contract](https://gregorybuts.github.io/de-verstandhouding-showcase/api.html) met 62 endpoints.
 
 **[Slotallocatie onder gelijktijdigheid](https://github.com/GregoryButs/Slotcalculator-showcase)**
 Het moeilijkste probleem uit dat systeem, uitgesneden tot een losse repository met een generiek
@@ -37,7 +37,7 @@ geweigerd, geen serverfouten. Draai het zelf in Codespaces zonder installatie.
 ### Hoe ik werk
 
 Het platform hierboven draait op **1.218 geautomatiseerde tests** (812 xUnit, 406 Vitest) met
-**92,5% gecombineerde line coverage**, en elke architectuurbeslissing is vastgelegd in een ADR —
+**92,7% gecombineerde line coverage**, en elke architectuurbeslissing is vastgelegd in een ADR —
 inclusief de beslissingen om iets juist *niet* te doen.
 
 Wat ik daarbij belangrijk vind: elk cijfer dat ik publiceer komt uit een run, niet uit een
